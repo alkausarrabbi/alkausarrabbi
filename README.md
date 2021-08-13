@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **alkausarrabbi24@gmail.com**
 
-- 📫 Inbox me: <a href="https://m.me/iamalkausar" target="_blank">
+- 📫 Inbox me: <a href="https://m.me/iamalkausar" target="_blank">Massenger </a>
 
 - ⚡ What I like to do: **I like so much reading, watching movies and playing video games...and coding of course**
 
