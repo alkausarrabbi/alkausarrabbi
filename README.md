@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Al Kausar Rabbi </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkausarrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="alkausarrabbi" /> </p>
-<h3 align="center"> Beginner Front-End developer from Bangladesh</h3>
+<h3 align="center"> Beginner MernStack Developer from Bangladesh</h3>
 
 -- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
