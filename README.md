@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
-- 📫 How to reach me: **alkausarrabbi24@gmail.com**
+- 📫 How to reach me: **alkausarrabbi1@gmail.com**
 
 - 📫 Inbox me: <a href="https://m.me/iamalkausar" target="_blank">Massenger </a>
 
